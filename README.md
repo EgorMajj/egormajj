@@ -52,7 +52,7 @@ No-code Rollups-as-a-Service provider for Web3.</li>
    <li> Ambassador at <a href="https://www.metadojo.io/" target="_blank"><strong>MetaDojo</strong></a>. Metaverse.</li>
  </ul>
     
-    <h3 align="left">Validator/Node Operator:</h3>
+<h3 align="left">Validator/Node Operator:</h3>
   <ul>
     <li> <a href="https://starkware.co/" target="_blank"> <strong>StarkNet</strong></a>. STARK-Based scaling solutions.</li>
     <li> <a href="https://ironfish.com/" target="_blank"><strong>Iron Fish</strong></a>. The privacy platform for Web3.</li>
