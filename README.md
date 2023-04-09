@@ -1,12 +1,15 @@
 <div id="header" align="center">
   <img src="https://pbs.twimg.com/media/FtRjMxlWYAAPAwz?format=jpg&name=medium" width="1500"/>
 </div>
+
 _____
+
 <h3 align="center">
   <a href="https://twitter.com/major777rigion" target="_blank">egormajj
 </h3>
 <h4 align="center">
 AMBASSADOR WEB3
+DIGITAL MARKETING SOLUTION
 </h4>
 <div id="badges" align="center">
     <a href="https://t.me/EgorMajj">
