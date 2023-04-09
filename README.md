@@ -29,7 +29,7 @@ DIGITAL MARKETING SOLUTION
 Fully immersed in Web3 and blockchain technology, researching early-stage projects and helping with marketing development as an Ambassador, community moderator and tester
 <p></p>
   
-<h4> 👨‍💻 Here are some of my skills:</h4> 
+<h4> Here are some of my skills:</h4> 
 
 - Crafting articles, guides, and blog posts
 - Educating and amplifying through social media
