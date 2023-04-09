@@ -75,7 +75,7 @@ No-code Rollups-as-a-Service provider for Web3.</li>
         <img src="https://img.shields.io/badge/Link3-black?style=for-the-badge&logo=Link3&logoColor=grey" alt="Link3 Badge"/>
       </a>
         <a href="https://medium.com/@egor1998.popov">
-        <img src="https://img.shields.io/badge/Mirror-black?style=for-the-badge&logo=Mirror&logoColor=grey" alt="Medium Badge"/>
+        <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=grey" alt="Medium Badge"/>
       </a>
   </div>
 
