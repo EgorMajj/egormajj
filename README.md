@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://pbs.twimg.com/media/FtRjMxlWYAAPAwz?format=jpg&name=medium" width="1500"/>
+  <img src="https://miro.medium.com/v2/resize:fit:786/1*Wo0fxwzBSTncagZMMUrs1w.gif" width="500"/>
 </div>
 
 _____
@@ -9,6 +9,7 @@ _____
 </h3>
 <h4 align="center">
 AMBASSADOR WEB3
+  
 DIGITAL MARKETING SOLUTION
 </h4>
 <div id="badges" align="center">
@@ -30,11 +31,14 @@ Fully immersed in Web3 and blockchain technology, researching early-stage projec
   
 <h4> 👨‍💻 Here are some of my skills:</h4> 
 
-- Сonfident user of photoshop and illustrator
-- Сreating memes and graphics for social networks
-- Editing and creating videos
-- Maintaining social networks and telegram channels
-- Translation of articles and documentation
+- Crafting articles, guides, and blog posts
+- Educating and amplifying through social media
+- Helping out with community management
+- Hosting community events and meetups
+- Giving presentations and speeches
+- Designing infographics
+- Creating videos
+- Engaging in creative efforts to empower and educate the community
   
   <h2 align="center">Experience</h2>
   
@@ -44,7 +48,7 @@ Fully immersed in Web3 and blockchain technology, researching early-stage projec
    <li> Ambassador at <a href="https://www.aleo.org/" target="_blank"><strong>Aleo</strong></a>. Aleo is a Layer 1 blockchain bringing privacy to the web </li>
    <li> Ambassador at <a href="https://altlayer.io/" target="_blank"><strong>AltLayer</strong></a>. 
 No-code Rollups-as-a-Service provider for Web3.</li>
-   <li> Ambassador at <a href="https://flow.com/" target="_blank"><strong>Flow</strong></a>.Permissionless layer 1 blockchain that empowers developers to create limitless Web3 dApps for mainstream users.</li>
+   <li> Ambassador at <a href="https://flow.com/" target="_blank"><strong>Flow</strong></a>. Permissionless layer 1 blockchain that empowers developers to create limitless Web3 dApps for mainstream users.</li>
    <li> Ambassador at <a href="https://www.seinetwork.io/" target="_blank"><strong>Sei</strong></a>. Sei is the first sector-specific Layer 1 blockchain, specialized for trading.</li>
    <li> Moderator at <a href="https://www.thala.fi/" target="_blank"><strong>Thala</strong></a>. DeFi HyperApp – powered by Move, now live on Aptos.</li>
    <li> Ambassador at <a href="https://www.oasisprotocol.org/" target="_blank"><strong>Oasis Network</strong></a>. The Oasis Network provides a privacy layer for web3.</li>
