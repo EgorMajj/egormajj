@@ -44,6 +44,7 @@ Fully immersed in Web3 and blockchain technology, researching early-stage projec
   
 <h3 align="left">Ambassador/Community Moderator:</h3>
   <ul>
+   <li> zkStar (One of the most active members of the community) at <a href="https://zksync.io/" target="_blank"><strong>zkSync</strong></a>. future-proof zkEVM. Scaling Ethereum's security and values.</li>
    <li> Moderator & Ambassador at <a href="https://axelar.network/" target="_blank"><strong>Axelar</strong></a>. Axelar delivers secure cross-chain communication for Web3.</li>
    <li> Ambassador at <a href="https://www.aleo.org/" target="_blank"><strong>Aleo</strong></a>. Aleo is a Layer 1 blockchain bringing privacy to the web </li>
    <li> Ambassador at <a href="https://altlayer.io/" target="_blank"><strong>AltLayer</strong></a>. 
