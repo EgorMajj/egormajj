@@ -16,7 +16,7 @@ DIGITAL MARKETING SOLUTION
     <a href="https://t.me/EgorMajj">
       <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-      <a href="https://twitter.com/major777rigion">
+      <a href="https://twitter.com/0xegormajj">
       <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://github.com/EgorMajj">
