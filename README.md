@@ -5,7 +5,7 @@
 _____
 
 <h3 align="center">
-  <a href="https://twitter.com/major777rigion" target="_blank">egormajj
+  <a href="https://twitter.com/0xegormajj" target="_blank">egormajj
 </h3>
 <h4 align="center">
 AMBASSADOR WEB3
@@ -73,7 +73,7 @@ No-code Rollups-as-a-Service provider for Web3.</li>
     <a href="https://t.me/EgorMajj">
         <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Link3&logoColor=grey" alt="Telegram Badge"/>
       </a>
-      <a href="https://twitter.com/major777rigion">
+      <a href="https://twitter.com/0xegormajj">
         <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=Link3&logoColor=grey" alt="Twitter Badge"/>
       </a>
     <a href="https://github.com/EgorMajj">
