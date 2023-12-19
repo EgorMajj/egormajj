@@ -49,6 +49,10 @@ Fully immersed in Web3 and blockchain technology, researching early-stage projec
    <li> Ambassador at <a href="https://www.aleo.org/" target="_blank"><strong>Aleo</strong></a>. Aleo is a Layer 1 blockchain bringing privacy to the web </li>
    <li> Ambassador at <a href="https://altlayer.io/" target="_blank"><strong>AltLayer</strong></a>. 
 No-code Rollups-as-a-Service provider for Web3.</li>
+ <li> Ambassador at <a href="https://polyhedra.network/" target="_blank"><strong>Polyhedra</strong></a>. 
+Bringing interoperability, scalability, and privacy to Web3 with cutting-edge zero-knowledge proof systems.</li>
+ <li> Community Builder at <a href="https://namada.net/" target="_blank"><strong>Namada</strong></a>. 
+Namada is a layer 1 blockchain solution that redefines asset‑agnostic, multichain privacy.</li>
    <li> Ambassador at <a href="https://flow.com/" target="_blank"><strong>Flow</strong></a>. Permissionless layer 1 blockchain that empowers developers to create limitless Web3 dApps for mainstream users.</li>
    <li> Ambassador at <a href="https://www.seinetwork.io/" target="_blank"><strong>Sei</strong></a>. Sei is the first sector-specific Layer 1 blockchain, specialized for trading.</li>
    <li> Moderator at <a href="https://www.thala.fi/" target="_blank"><strong>Thala</strong></a>. DeFi HyperApp – powered by Move, now live on Aptos.</li>
